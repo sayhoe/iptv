@@ -14222,7 +14222,7 @@ https://rtmlive01tv.secureswiftcontent.com/rtmchannel/01-manifest.mpd
 #EXTINF:-1 tvg-id="TV2.my" tvg-country="MY" tvg-language="Malay" tvg-logo="https://www.lyngsat.com/logo/tv/rr/rtm_my_tv2.png" group-title="Malaysia",TV2 (1080p)
 https://rtmlive05tv.secureswiftcontent.com/rtmchannel/05-manifest.mpd
 #EXTINF:-1 tvg-id="TV3.my" tvg-country="MY" tvg-language="Malay" tvg-logo="https://www.xtra.com.my/wp-content/themes/xtra_revamp/assets/img/tv3.png" group-title="Malaysia",TV3 (1080p)
-https://stream-02.sg1.dailymotion.com/sec(Zqc0ZDcpMSy05peWWXyuXdLGHeg4YZh94fwcDsxwFVmzUfrtkVC7g62UjadKs4Uq23WVhYZ9lZfjVSR25DTZig)/dm/3/x6qp375/d/live-4.m3u8
+https://stream-02.sg1.dailymotion.com/sec(Zqc0ZDcpMSy05peWWXyuXfV3F5hKFR1pTzS7A0JQ9hAhRaqN19Io58ys3e8vYoaC_KY5PZAytqF1FsMh4sMmbQ)/dm/3/x6qp375/d/live-4.m3u8
 #EXTINF:-1 tvg-id="TV6.my" tvg-country="MY" tvg-language="Malay" tvg-logo="https://myklikstatic.secureswiftcontent.com/image/TV6-PlayerLogo-JPG.jpg" group-title="Malaysia",TV6 (1080p)
 https://rtmlive07tv.secureswiftcontent.com/rtmchannel/07-manifest.mpd
 #EXTINF:-1 tvg-id="TV8.my" tvg-country="MY" tvg-language="Chinese" tvg-logo="https://www.xtra.com.my/wp-content/themes/xtra_revamp/assets/img/tv8.png" group-title="Malaysia",TV8 (480p) [Not 24/7]
